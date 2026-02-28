@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        file: [scrapper10.js, scrapper11.js, scrapper12.js, scrapper13.js, scrapper14.js, scrapper15.js, scrapper16.js, scrapper17.js, scrapper18.js]
+        file: [scrapper19.js, scrapper20.js, scrapper21.js, scrapper22.js, scrapper23.js, scrapper24.js, scrapper25.js, scrapper26.js, scrapper27.js]
 
     steps:
       - uses: actions/checkout@v4
